@@ -1,6 +1,8 @@
-Watch the [Tutorial]() on how to use the FULL release.<br>
-1. Open the Installer
-2. Open Geometry Dash
-3. Drag all files in the **dylib** folder into GD
-4. Go to the **applications** folder and open all the apps you want to use.
-5. Done!
+** NEW UPDATE **
+
+# USING DASHHACKS HAS CHANGED
+1. Download from Releases, the dylib.zip folder, and the applications you want to use
+2. Install ModLoaderInstaller
+3. Open GD
+4. Drag the dylib files from dylib.zip into GD
+5. Open the applications and attach
